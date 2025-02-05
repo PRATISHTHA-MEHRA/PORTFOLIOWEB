@@ -72,8 +72,9 @@
  }
 
  .home-img img{
-    width:3ovw ;
+    width:30vw ;
     animation:ease-in ;
+     border:7px
  }
 
  @keyframes floatImage{
